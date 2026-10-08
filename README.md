@@ -1,6 +1,6 @@
 # react-currency-converter
 
-A currency converter in React + Vite that works the moment you clone it. Rates are the **official tables published by 100+ central banks and tax authorities** (ECB, Fed, Bank of England, RBI, HMRC and more), fetched from a keyless, CORS-open endpoint. No API key, no backend, nothing to configure.
+A currency converter in React + Vite that works the moment you clone it. Rates are the **official tables published by 121 central banks and 3 tax authorities** (ECB, Fed, Bank of England, RBI, HMRC and more), fetched from a keyless, CORS-open endpoint. No API key, no backend, nothing to configure.
 
 ## Use this template
 
@@ -24,3 +24,7 @@ Official tables are once-a-day fixings. For live mid-market rates across 160+ cu
 ## License
 
 MIT. Rate data is free to use with attribution to [AllRatesToday](https://allratestoday.com).
+
+## 🔗 Links
+
+- **AI agents:** Claude Code plugin `/plugin marketplace add AllRates-Today/claude-code-plugin` · hosted MCP endpoint `https://allratestoday.com/api/mcp` (keyless)
