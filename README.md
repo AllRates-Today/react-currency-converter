@@ -1,6 +1,6 @@
 # react-currency-converter
 
-A currency converter in React + Vite that works the moment you clone it. Rates are the **official tables published by 121 central banks and 3 tax authorities** (ECB, Fed, Bank of England, RBI, HMRC and more), fetched from a keyless, CORS-open endpoint. No API key, no backend, nothing to configure.
+A currency converter in React + Vite that works the moment you clone it. Rates are the **official tables published by 130+ central banks and tax authorities** (ECB, Fed, Bank of England, RBI, HMRC and more), fetched from a keyless, CORS-open endpoint. No API key, no backend, nothing to configure.
 
 ## Use this template
 
